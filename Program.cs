@@ -11,6 +11,7 @@ namespace sum
 
             var newList = list.Where(Compare);
             
+            //Trying GIT in VS
 
 
             foreach(int item in newList)
