@@ -13,8 +13,6 @@ namespace sum
             
             //Trying GIT in VS
 
-            Console.WriteLine("x");
-
 
             foreach(int item in newList)
                 Console.WriteLine(item);
