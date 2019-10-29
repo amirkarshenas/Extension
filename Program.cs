@@ -12,13 +12,17 @@ namespace sum
             var newList = list.Where(Compare);
             
             //new 
+            //second commit add new function
 
             foreach(int item in newList)
                 Console.WriteLine(item);
 
         }
 
-        
+        public int sum()
+        {
+
+        }
 
 
         public static bool Compare(int x) => x > 15;  
