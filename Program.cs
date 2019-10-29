@@ -11,7 +11,7 @@ namespace sum
 
             var newList = list.Where(Compare);
             
-
+            //new 
 
             foreach(int item in newList)
                 Console.WriteLine(item);
