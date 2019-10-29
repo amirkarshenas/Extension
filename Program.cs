@@ -21,7 +21,7 @@ namespace sum
         
 
 
-        public static bool Compare(int x) => x > 10;  
+        public static bool Compare(int x) => x > 15;  
 
 
 
